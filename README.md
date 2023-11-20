@@ -2,7 +2,7 @@
 
 This is a puppy parody of Tinder, a fictional service to help your dog meet other friendly dogs in your area.
 
-It's also the first website I've made from scratch using only HTML, CSS and Bootstrap.
+It's also the first website I've made from scratch using only HTML, CSS, Bootstrap, and a wee bit of JavaScript.
 
 At just a single page, navigation is quite simple.
 
